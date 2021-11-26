@@ -1,1 +1,17 @@
-# offerkoffertje
+------------------
+| offerkoffertje |
+------------------
+
+'snel snel
+ waf waf
+ cav cav
+
+
+# amputation
+https://de.wikipedia.org/wiki/Amputation
+
+# cav1.3
+https://en.wikipedia.org/wiki/Cav1.3
+
+# isoleercel
+https://nl.wikipedia.org/wiki/Isoleercel
